@@ -1,0 +1,13 @@
+1 d1bgva1 7.5E-52
+1 d1b26a1 2.5E-47
+1 d1bvua1 4.7E-44
+1 d1euza1 5.2E-43
+1 d1gtma1 9.8E-42
+1 d1leha1 1E-35
+1 d1c1da1 3.4E-33
+1 d1ebfa1 2.2E-07
+1 d1b0aa1 8.7E-06
+1 d1b3ra1 1.5E-05
+1 d1gpja2 0.00016
+1 d1edza1 0.00072
+1 d1cf2o1 0.00091

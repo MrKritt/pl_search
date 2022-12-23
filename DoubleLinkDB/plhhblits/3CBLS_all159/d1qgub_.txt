@@ -1,0 +1,5 @@
+1 d2minb_ 6E-128
+1 d1miob_ 1.2E-89
+1 d2mina_ 3.3E-85
+1 d1qgua_ 2.6E-84
+1 d1mioa_ 1.8E-79

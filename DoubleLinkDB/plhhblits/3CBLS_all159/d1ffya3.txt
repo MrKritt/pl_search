@@ -1,0 +1,11 @@
+1 d1ile_3 5.5E-78
+1 d1gaxa3 8.2E-75
+1 d1a8h_2 2.7E-63
+1 d1f4la2 2.1E-57
+1 d1f7ua2 5.1E-25
+1 d1iq0a2 5.8E-24
+1 d1gtra2 2.9E-17
+1 d1gln_2 1.2E-16
+1 d1jila_ 3.1E-09
+1 d4ts1a_ 4E-09
+1 d1i6la_ 3.9E-06

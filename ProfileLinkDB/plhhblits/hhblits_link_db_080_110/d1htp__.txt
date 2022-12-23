@@ -1,0 +1,17 @@
+d1gjxa_ 1.7E-15
+d1k8ma_ 2.2E-14
+d1qjoa_ 5.1E-13
+d1iyu__ 5.5E-13
+d1ghk__ 6.8E-13
+d1fyc__ 1.1E-12
+d1pmr__ 1.5E-12
+d1bdo__ 6.7E-12
+d1lac__ 1.4E-11
+d1dd2a_ 1.3E-10
+d2f3ga_ 1.4E-07
+d1gpr__ 3.9E-06
+d1glaf_ 1.9E-05
+d2gpr__ 7.2E-05
+d1ci3m2 0.0001
+d2tpt_3 0.00048
+d1brwa3 0.00082

@@ -1,0 +1,6 @@
+1 d1e4ft2 1.1E-17
+1 d1jcfa2 1.7E-15
+1 d1hjoa2 1.9E-15
+1 d1bupa2 6.9E-15
+1 d1bu6o2 4.6E-07
+1 d1bu6o1 1E-06

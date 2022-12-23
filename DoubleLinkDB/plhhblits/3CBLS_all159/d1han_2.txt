@@ -1,0 +1,10 @@
+1 d1gdga2 5.4E-27
+1 d1mpya2 1.4E-15
+1 d1mpya1 6.3E-12
+1 d1gdga1 4.4E-11
+1 d1f9za_ 9.9E-11
+1 d1han_1 1.5E-10
+1 d1jc4a_ 1.5E-09
+1 d1qipa_ 2.9E-09
+1 d1byla_ 1.6E-07
+1 d1cjxa2 2.2E-06

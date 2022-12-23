@@ -1,0 +1,5 @@
+d1dqua_ 1E-116
+d1igwa_ 2E-107
+d1pyma_ 1.2E-59
+d1nal1_ 0.00054
+d1dhpa_ 0.00096

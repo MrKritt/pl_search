@@ -1,0 +1,8 @@
+d1axca2 1.1E-32
+d1plq_2 9.6E-32
+d2pola3 3.4E-26
+d1axca1 3.1E-07
+d1plq_1 8.5E-07
+d1ge8a1 8.5E-06
+d2pola1 0.00033
+d2pola2 0.0004

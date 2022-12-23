@@ -1,0 +1,9 @@
+1 d1han_1 2.3E-13
+1 d1mpya1 2.8E-10
+1 d1han_2 4.7E-07
+1 d1mpya2 9.5E-07
+1 d1gdga2 5.7E-06
+1 d1f9za_ 8.2E-06
+1 d1ecsa_ 7.8E-05
+1 d1qipa_ 0.0001
+1 d1jc4a_ 0.00021

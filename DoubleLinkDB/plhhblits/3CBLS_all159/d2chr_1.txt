@@ -1,0 +1,16 @@
+1 d1muca1 3.2E-55
+1 d1bqg_1 4.2E-52
+1 d1jpma1 6E-52
+1 d2mnr_1 2.2E-51
+1 d1ec7a1 5.3E-49
+1 d1jpdx1 1.1E-41
+1 d1fhua1 1.2E-39
+1 d1kcza1 1.3E-35
+1 d1kkoa1 6.7E-35
+1 d1onea1 9.8E-33
+1 d1pdz_1 1.1E-31
+1 d1e9ia1 3.8E-31
+0 d1djna1 2.6E-12
+0 d1h61a_ 3.1E-09
+0 d1icpa_ 6E-09
+0 d1oyb__ 1.1E-05

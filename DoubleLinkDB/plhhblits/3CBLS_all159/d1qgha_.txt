@@ -1,0 +1,5 @@
+1 d1dpsa_ 2.9E-32
+1 d1bcfa_ 2.1E-12
+1 d1euma_ 2.4E-11
+1 d1jgca_ 9.4E-11
+1 d1krqa_ 2.3E-09

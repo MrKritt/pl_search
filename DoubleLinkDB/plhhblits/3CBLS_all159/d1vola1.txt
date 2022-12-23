@@ -1,0 +1,8 @@
+1 d1aisb1 7.5E-24
+1 d1aisb2 1.1E-20
+1 d1vola2 2.6E-20
+1 d1jkw_1 3.8E-07
+1 d1vin_1 3.3E-06
+1 d1f5qb1 1.1E-05
+1 d1g3nc1 1.8E-05
+1 d1bu2a1 3.7E-05

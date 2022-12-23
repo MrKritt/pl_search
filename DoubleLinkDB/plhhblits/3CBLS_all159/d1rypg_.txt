@@ -1,0 +1,17 @@
+1 d1rype_ 9.8E-60
+1 d1rypc_ 1.4E-59
+1 d1rypa_ 1.7E-59
+1 d1rypf_ 2.4E-59
+1 d1pmaa_ 3E-59
+1 d1rypb_ 5.9E-59
+1 d1rypd_ 1.8E-58
+1 d1ryph_ 3.1E-45
+1 d1pma1_ 3.1E-45
+1 d1rypl_ 5.2E-45
+1 d1ryp2_ 1E-44
+1 d1rypk_ 1.2E-43
+1 d1rypi_ 3.4E-43
+1 d1rypj_ 3.2E-42
+1 d1ryp1_ 4.7E-42
+1 d1ht1a_ 2.7E-35
+1 d1jjwa_ 7.1E-34

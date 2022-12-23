@@ -1,0 +1,14 @@
+1 d1qcva_ 3E-30
+1 d1h7va_ 3.1E-30
+1 d1brfa_ 4.2E-30
+1 d1iro__ 1E-28
+1 d2rdva_ 2.5E-28
+1 d1rdg__ 6.3E-28
+1 d1rb9__ 7.1E-28
+1 d1dx8a_ 7.4E-28
+1 d6rxn__ 7.8E-23
+1 d1dvba2 3.1E-13
+0 d1e4ya2 1.2E-07
+0 d1aky_2 1.8E-07
+0 d2ak3a2 3.8E-07
+0 d1ffkw_ 1.2E-05

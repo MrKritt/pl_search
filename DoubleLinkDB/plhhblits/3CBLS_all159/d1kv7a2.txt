@@ -1,0 +1,13 @@
+1 d1aoza2 5E-32
+1 d1hfua2 1.2E-31
+1 d1j9qa2 2.7E-12
+1 d1nif_2 7.3E-12
+1 d1kv7a3 7.3E-12
+1 d1ndsa2 1.6E-11
+1 d1gs7a2 1.6E-11
+1 d1kcw_4 6.4E-11
+1 d1kcw_2 1E-10
+1 d1hfua3 1.5E-08
+1 d1aoza3 5.1E-08
+1 d1nif_1 4.7E-06
+1 d1j9qa1 6.3E-06

@@ -1,0 +1,14 @@
+d2gpr__ 6E-54
+d1gpr__ 1.1E-53
+d1glaf_ 5.6E-52
+d1ci3m2 1.5E-18
+d1hcz_2 1.2E-11
+d1e2wa2 2.7E-11
+d1gjxa_ 1.9E-06
+d1qjoa_ 2.6E-06
+d1dd2a_ 4.1E-06
+d1bdo__ 2E-05
+d1brwa3 0.00088
+d2tpt_3 0.0009
+d1ghk__ 0.00098
+d1k8ma_ 0.001

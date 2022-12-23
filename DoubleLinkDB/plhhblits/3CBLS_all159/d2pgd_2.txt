@@ -1,0 +1,13 @@
+1 d1pgja2 2.3E-18
+1 d1qp8a1 8.8E-08
+1 d2dlda1 5.4E-07
+1 d1dxy_1 1.8E-06
+1 d1evya2 2.1E-06
+1 d1bg6_2 3.3E-06
+1 d1gdha1 1.5E-05
+1 d1psda1 7.5E-05
+1 d2naca1 9.8E-05
+1 d1ks9a2 0.00012
+1 d1jaya_ 0.00026
+1 d1f0ya2 0.00027
+1 d1qmga2 0.00088

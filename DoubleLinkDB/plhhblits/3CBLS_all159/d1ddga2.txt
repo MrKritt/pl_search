@@ -1,0 +1,17 @@
+1 d1f20a2 6.1E-30
+1 d1gawa2 5.1E-28
+1 d1fb3a2 1.1E-27
+1 d1fnc_2 1.4E-27
+1 d1qfza2 6.2E-27
+1 d1ja1a3 9.1E-27
+1 d1jb9a2 1.6E-26
+1 d1que_2 2.6E-26
+1 d1qfja2 8.2E-15
+1 d2pia_2 1.6E-14
+1 d1fdr_2 1.8E-14
+1 d1ep3b2 8.9E-14
+1 d1cqxa3 2.5E-13
+1 d1ndh_2 4E-13
+1 d2cnd_2 4E-13
+1 d1i7pa2 1.3E-12
+1 d1a8p_2 5.2E-12

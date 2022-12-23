@@ -1,0 +1,3 @@
+1 d1efpa1 8.9E-38
+1 d1efpb1 7.2E-32
+1 d1efvb1 8E-32

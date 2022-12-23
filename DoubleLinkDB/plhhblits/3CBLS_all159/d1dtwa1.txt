@@ -1,0 +1,8 @@
+1 d1qs0a1 1.6E-86
+1 d1gpua1 4.2E-39
+1 d1poxa3 3.6E-25
+1 d1jsca3 3.7E-21
+1 d1pvda3 7.5E-21
+1 d1bfd_3 1.8E-20
+1 d1zpda3 1.8E-19
+1 d1keka2 1.2E-13

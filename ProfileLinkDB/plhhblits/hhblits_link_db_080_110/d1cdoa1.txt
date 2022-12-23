@@ -1,0 +1,11 @@
+d1d1ta1 3.3E-40
+d1hsza1 6.5E-40
+d1hsoa1 1.2E-39
+d1heta1 1.8E-37
+d1ht0a1 2.1E-37
+d1teha1 6.4E-37
+d1e3ia1 1E-34
+d1ykfa1 9.3E-19
+d1e3ja1 1E-18
+d1keva1 9.9E-18
+d1qora1 8.1E-17

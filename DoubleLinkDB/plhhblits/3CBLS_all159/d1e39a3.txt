@@ -1,0 +1,5 @@
+1 d1d4ca3 6.1E-43
+1 d1qo8a3 2.3E-42
+1 d1qlaa3 1.6E-20
+1 d1chua3 2.7E-19
+1 d1fuma3 4.3E-19

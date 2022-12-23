@@ -1,0 +1,9 @@
+d1tmo_1 3.2E-39
+d1eu1a1 2.4E-38
+d2napa1 3.7E-32
+d1aa6_1 8.7E-31
+d1g8ka1 1.1E-30
+d1cr5a1 2.3E-07
+d1qcsa1 6.4E-07
+d1e32a1 5.5E-06
+d1cz4a1 2.2E-05

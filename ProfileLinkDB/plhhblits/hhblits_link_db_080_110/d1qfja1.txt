@@ -1,0 +1,17 @@
+d1a8p_1 1.3E-27
+d1ep3b1 2.2E-27
+d1fdr_1 7E-27
+d2pia_1 1E-26
+d2cnd_1 1.1E-26
+d1cqxa2 3.8E-26
+d1i7pa1 4.8E-26
+d1que_1 5.5E-26
+d1ndh_1 6.8E-26
+d1gawa1 1.2E-25
+d1jb9a1 1.7E-25
+d1qfza1 3.4E-25
+d1fb3a1 4E-25
+d1fnc_1 4.7E-24
+d1ddga1 3.3E-12
+d1ja1a1 6.4E-10
+d1f20a1 2.1E-08

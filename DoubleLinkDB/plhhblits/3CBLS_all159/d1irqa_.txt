@@ -1,0 +1,9 @@
+1 d1baza_ 5E-21
+1 d1myka_ 2.4E-20
+1 d1bdta_ 5.4E-20
+1 d1b28a_ 3.2E-19
+1 d1bazb_ 2E-18
+1 d1myla_ 4.1E-18
+1 d1mylb_ 1E-17
+1 d1mnta_ 1.5E-16
+1 d2cpga_ 3.4E-11

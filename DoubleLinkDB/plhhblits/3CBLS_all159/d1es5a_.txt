@@ -1,0 +1,13 @@
+1 d1hd8a2 1.1E-38
+1 d1btl__ 1.7E-14
+1 d1bza__ 6.5E-13
+1 d1g6aa_ 6.5E-13
+1 d1g56a_ 2E-12
+1 d1ghpa_ 9.2E-12
+1 d1buea_ 1.1E-11
+1 d1mfoa_ 2.8E-11
+1 d4blma_ 2.9E-11
+1 d1bsg__ 5E-11
+1 d1dy6a_ 3E-10
+1 d1e25a_ 3.6E-10
+1 d1alq__ 6.8E-10

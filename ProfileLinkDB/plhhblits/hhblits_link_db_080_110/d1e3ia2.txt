@@ -1,0 +1,14 @@
+d1cdoa2 1.1E-13
+d1teha2 2.8E-13
+d1d1ta2 3.2E-13
+d1heta2 6.4E-12
+d1ht0a2 8.8E-12
+d1ykfa2 4.7E-11
+d1keva2 3.8E-10
+d1e3ja2 6.6E-10
+d1qora2 5.3E-08
+d1f8ga1 2.6E-07
+d1pjca1 1.1E-06
+d1gpja2 0.0002
+d1jg1a_ 0.00021
+d1dl5a1 0.0007

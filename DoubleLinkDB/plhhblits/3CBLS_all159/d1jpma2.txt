@@ -1,0 +1,12 @@
+1 d2chr_2 1.6E-38
+1 d1muca2 8.3E-38
+1 d2mnr_2 1.5E-35
+1 d1bqg_2 7.7E-35
+1 d1ec7a2 1.5E-33
+1 d1jpdx2 2E-32
+1 d1fhua2 5.9E-28
+1 d1e9ia2 3E-27
+1 d1pdz_2 7.3E-25
+1 d1onea2 1.8E-23
+1 d1kkoa2 1.3E-08
+1 d1kcza2 1.3E-08

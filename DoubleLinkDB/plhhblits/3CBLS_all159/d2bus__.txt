@@ -1,0 +1,12 @@
+1 d1sgpi_ 2.4E-20
+1 d3ovo__ 3.8E-20
+1 d1pce__ 6.2E-20
+1 d2ovo__ 1.7E-19
+1 d1tbrr1 3.6E-19
+1 d1hpt__ 4.3E-19
+1 d1tgsi_ 2.4E-18
+1 d1nuba3 2E-17
+1 d1tbrr2 2.1E-17
+0 d1hdla_ 2.3E-17
+1 d1an1i_ 6.5E-17
+1 d1ldtl_ 2.8E-16

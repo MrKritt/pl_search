@@ -1,0 +1,13 @@
+1 d1pfxl2 2.4E-14
+1 d1danl2 1.5E-13
+1 d1rfnb_ 1.5E-12
+1 d1fjsl_ 3.1E-11
+1 d1kigl_ 1E-10
+1 d1ijqa2 1.4E-09
+1 d1hz8a1 1.2E-06
+1 d1apq__ 4.9E-06
+1 d1hz8a2 1E-05
+1 d1dx5i3 1.8E-05
+1 d1adx__ 0.00048
+1 d1emo_2 0.00063
+1 d1emo_1 0.001

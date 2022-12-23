@@ -1,0 +1,8 @@
+1 d1f5qb1 2.7E-28
+1 d1bu2a1 6.5E-28
+1 d1g3nc1 1E-27
+1 d1vin_1 1.1E-27
+1 d1aisb1 9E-13
+1 d1vola1 6.6E-12
+1 d1aisb2 1.5E-10
+1 d1vola2 4.8E-10

@@ -1,0 +1,9 @@
+d1be3b2 9.9E-22
+d1bccb2 3.4E-21
+d1ezva2 1.2E-20
+d1be3a2 1.2E-19
+d1bcca2 1.5E-18
+d1hr6a2 1.6E-17
+d1ezvb2 3.8E-12
+d1be3a1 0.00014
+d1hr6b1 0.00074

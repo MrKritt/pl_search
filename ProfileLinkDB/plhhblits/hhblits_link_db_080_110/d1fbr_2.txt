@@ -1,0 +1,5 @@
+d1fbr_1 1.5E-27
+d1qgba2 2E-25
+d1qgba1 1E-20
+d1e88a3 8.3E-18
+d1tpg_2 9.3E-06

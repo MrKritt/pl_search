@@ -1,0 +1,17 @@
+1 d1ndsa2 2.3E-49
+1 d1j9qa2 3.2E-48
+1 d1nif_2 1.5E-47
+1 d1gs7a2 1.3E-46
+1 d1kcw_2 9.5E-07
+1 d1kcw_6 2.6E-06
+1 d1hfua2 1.1E-05
+1 d1nif_1 2.7E-05
+1 d1j9qa1 3.1E-05
+1 d1kbva1 3.4E-05
+1 d1aoza1 3.9E-05
+1 d1hfua3 8.7E-05
+1 d1aoza2 0.00013
+1 d1fwxa1 0.00026
+1 d1aoza3 0.00037
+1 d1qnia1 0.00047
+1 d1kcw_4 0.00099

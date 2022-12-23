@@ -1,0 +1,7 @@
+1 d1ihua1 1.5E-14
+1 d1g3qa_ 3.9E-11
+1 d1hyqa_ 1.4E-10
+1 d1iona_ 2E-09
+1 d1ihua2 4.4E-08
+1 d1cp2a_ 1.6E-06
+1 d1fp6a_ 4.3E-06

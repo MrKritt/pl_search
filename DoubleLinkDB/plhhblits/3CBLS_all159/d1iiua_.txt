@@ -1,0 +1,15 @@
+1 d1aqb__ 5.1E-33
+1 d1rbp__ 1E-32
+1 d1hbq__ 7E-32
+1 d1bbpa_ 9.7E-24
+1 d1epba_ 7.9E-22
+1 d1i4ua_ 5.4E-20
+1 d1qqsa_ 9.2E-19
+1 d1exsa_ 1.3E-18
+1 d1ew3a_ 1.4E-18
+1 d2a2ua_ 1.6E-18
+1 d1beba_ 2E-18
+1 d1euoa_ 2.8E-18
+1 d1jv4a_ 4E-18
+1 d1e5pa_ 2E-15
+1 d1avgi_ 1.9E-14

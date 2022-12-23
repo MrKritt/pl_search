@@ -1,0 +1,8 @@
+1 d1dxqa_ 1.1E-72
+1 d1qrda_ 2.9E-72
+1 d1qr2a_ 5.7E-42
+1 d1czna_ 4.1E-16
+1 d1ag9a_ 5E-16
+1 d2fcr__ 4.7E-14
+1 d1b1ca_ 7E-14
+1 d1ja1a2 4E-13

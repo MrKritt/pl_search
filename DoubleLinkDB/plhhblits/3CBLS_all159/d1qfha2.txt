@@ -1,0 +1,6 @@
+1 d1ksr__ 5.6E-24
+1 d1qfha1 2.1E-22
+0 d1cwva2 9.6E-15
+0 d1cwva3 2.5E-09
+0 d1cwva1 2.1E-07
+0 d1f00i1 1.1E-06

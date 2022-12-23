@@ -1,0 +1,3 @@
+d1efpb1 3E-60
+d1efpa1 3.1E-26
+d1efva1 9.5E-26

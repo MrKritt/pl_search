@@ -1,0 +1,8 @@
+1 d2phla1 1.8E-35
+1 g1dgw.1 1.2E-32
+1 d1dgwa_ 3.7E-32
+1 d2phla2 1.6E-29
+1 d1fxza2 4.9E-28
+1 d1fi2a_ 6.8E-21
+1 g1dgr.3 2.5E-19
+1 d1ep0a_ 0.00011

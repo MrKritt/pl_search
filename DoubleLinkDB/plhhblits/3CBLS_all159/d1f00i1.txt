@@ -1,0 +1,4 @@
+1 d1cwva3 9.3E-26
+1 d1cwva2 1.7E-25
+1 d1cwva1 5.5E-24
+0 d1qfha2 6.5E-05

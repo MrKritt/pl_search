@@ -1,0 +1,6 @@
+d1e5ma2 8.9E-40
+d1kas_2 9.9E-39
+d1qfla2 2.8E-23
+d1afwa2 1.1E-19
+d1hzpa2 4.4E-13
+d1hnja2 1.7E-05

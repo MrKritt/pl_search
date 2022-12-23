@@ -1,0 +1,7 @@
+d1rhs_1 1.5E-19
+d1e0ca2 6.9E-17
+d1hzma_ 2E-15
+d1gmxa_ 6.8E-14
+d1rhs_2 1E-13
+d1qb0a_ 3.1E-10
+d1c25__ 1.3E-09

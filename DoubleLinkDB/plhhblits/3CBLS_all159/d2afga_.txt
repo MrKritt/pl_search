@@ -1,0 +1,14 @@
+1 d1bfg__ 4E-43
+1 d1bara_ 5.5E-43
+1 d1fmms_ 5.6E-43
+1 d1qqla_ 9.7E-43
+1 d1jqza_ 4.2E-42
+1 d1bla__ 2.6E-41
+1 d1qqka_ 3.3E-41
+1 d1ihka_ 3.5E-39
+1 d1ijta_ 1.4E-38
+0 d1dfca3 1.6E-21
+0 d1dfca1 5.8E-16
+0 d1dfca4 8.1E-16
+0 d1dfca2 8E-11
+0 d1hcd__ 6E-08

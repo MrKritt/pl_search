@@ -1,0 +1,9 @@
+1 d1qhoa3 2.4E-10
+1 d1smaa2 2.3E-10
+1 d1pama3 2.7E-10
+1 d1cgt_3 2.7E-10
+1 d1ciu_3 3.1E-10
+1 d1kcla3 3.3E-10
+1 d1cyg_3 8.4E-09
+1 d1uok_1 1.3E-08
+1 d1bag_1 1.7E-05

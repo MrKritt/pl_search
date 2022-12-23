@@ -1,0 +1,16 @@
+1 d1qapa1 7.2E-54
+0 d1euaa_ 2.1E-12
+0 d2tpsa_ 6.9E-12
+0 d1rpxa_ 5E-11
+0 d1hg3a_ 2.9E-10
+0 d1zfja1 8.8E-08
+0 d1jr1a1 3.3E-07
+0 d1eepa_ 7.1E-07
+0 d1huva_ 9E-06
+0 d1gox__ 9.6E-06
+0 d1jvna1 9.3E-05
+0 d1dbta_ 0.00015
+0 d1ltda1 0.00019
+0 d1dvja_ 0.00041
+0 d1ea0a2 0.00089
+0 d1jcla_ 0.0009

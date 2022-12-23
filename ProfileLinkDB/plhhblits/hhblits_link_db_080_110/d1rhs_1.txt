@@ -1,0 +1,7 @@
+d1e0ca1 1.4E-17
+d1e0ca2 5E-17
+d1rhs_2 1.6E-11
+d1hzma_ 3.6E-11
+d1gmxa_ 4.3E-11
+d1c25__ 8.3E-09
+d1qb0a_ 4E-07

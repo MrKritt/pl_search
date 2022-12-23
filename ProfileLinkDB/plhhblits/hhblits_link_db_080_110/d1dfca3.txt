@@ -1,0 +1,16 @@
+d1dfca4 1.2E-30
+d1dfca2 1.3E-30
+d1dfca1 3.3E-30
+d1hcd__ 1.7E-11
+d1jlxa1 8.1E-11
+d1jlxa2 1.6E-10
+d1qqla_ 2E-06
+d1bfg__ 2.3E-06
+d1fmms_ 2.9E-06
+d1jqza_ 3.1E-06
+d2afga_ 3.8E-06
+d1bla__ 4.9E-06
+d1bara_ 5.1E-06
+d1qqka_ 1E-05
+d1ijta_ 2.5E-05
+d1ihka_ 0.00019

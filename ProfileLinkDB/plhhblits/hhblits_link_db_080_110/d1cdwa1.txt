@@ -1,0 +1,7 @@
+d1qnaa1 8.8E-42
+d1ytba1 1.7E-41
+d1aisa1 1.4E-38
+d1aisa2 9.5E-38
+d1ytba2 4.7E-37
+d1cdwa2 2.1E-36
+d1qnaa2 3.2E-36

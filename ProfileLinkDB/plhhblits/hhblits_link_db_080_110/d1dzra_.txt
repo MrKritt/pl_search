@@ -1,0 +1,9 @@
+d1ep0a_ 8.7E-62
+d2phla1 3.8E-33
+g1dgr.3 1.5E-20
+g1dgw.1 1E-06
+d2phla2 1.7E-06
+d1fi2a_ 5.9E-06
+d1fxza2 1.2E-05
+d1dgwa_ 1.4E-05
+d1fxza1 0.00093

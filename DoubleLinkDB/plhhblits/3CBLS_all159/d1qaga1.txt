@@ -1,0 +1,7 @@
+1 d1aoa_1 2.4E-32
+1 d1dxxa1 4.2E-31
+1 d1h67a_ 2E-24
+1 d1aoa_2 8E-23
+1 d1bkra_ 3.9E-15
+1 d1bhda_ 4.2E-15
+1 d1dxxa2 1.2E-14

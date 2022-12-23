@@ -1,0 +1,10 @@
+1 d1cita_ 2E-33
+1 d1hra__ 2.5E-33
+1 d1dsza_ 3.9E-33
+1 d1dszb_ 9.5E-33
+1 d2gda__ 1.6E-32
+1 d1lata_ 3.5E-32
+1 d1glua_ 3.6E-32
+1 d2nllb_ 6.5E-32
+1 d1hcqa_ 1.8E-30
+1 d2nlla_ 5.5E-30

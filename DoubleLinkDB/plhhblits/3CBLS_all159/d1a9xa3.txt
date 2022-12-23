@@ -1,0 +1,14 @@
+1 d1a9xa4 5E-28
+1 d1dv1a2 2.6E-21
+1 d1iow_1 1.9E-12
+1 d1eyza2 4.9E-12
+1 d1gsoa2 6.6E-09
+0 d1id1a_ 1.2E-08
+0 d2uaga1 2E-06
+1 d1b6ra2 2.1E-05
+0 d1k6xa_ 2.5E-05
+0 d1qrra_ 3.3E-05
+0 d1f8ga1 0.00015
+0 d1udc__ 0.00016
+0 d1ek6a_ 0.00017
+0 d1jkja1 0.00056

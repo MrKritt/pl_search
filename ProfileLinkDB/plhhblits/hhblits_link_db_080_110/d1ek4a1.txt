@@ -1,0 +1,8 @@
+d1kas_1 8E-36
+d1e5ma1 1.4E-31
+d1hzpa1 9.1E-07
+d1hnja1 3.4E-06
+d1ee0a1 0.00015
+d1qfla1 0.00017
+d1bi5a1 0.00026
+d1afwa1 0.00085

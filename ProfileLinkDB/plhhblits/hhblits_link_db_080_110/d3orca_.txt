@@ -1,0 +1,11 @@
+d1d1la_ 1.7E-22
+d1copd_ 5.5E-22
+d1b9ma1 9.2E-10
+d1dw9a1 5.6E-06
+d1pru__ 2E-05
+d1ner__ 3.6E-05
+d1vpwa1 4.5E-05
+d1adr__ 7.4E-05
+d1b0na2 0.00016
+d1e3oc2 0.00021
+d1g2ha_ 0.00061

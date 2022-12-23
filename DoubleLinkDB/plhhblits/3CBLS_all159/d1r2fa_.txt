@@ -1,0 +1,10 @@
+1 d1kgna_ 3.3E-76
+1 d1jk0a_ 1.6E-73
+1 d1jk0b_ 8.3E-70
+1 d1xsm__ 1E-69
+1 d1jqca_ 5.4E-68
+1 d1mtyd_ 1E-06
+1 d1mhyd_ 6.5E-06
+1 d1afra_ 0.00061
+1 d1mtyb_ 0.00068
+1 d1mhyb_ 0.00091

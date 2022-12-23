@@ -1,0 +1,4 @@
+d1pyta_ 8E-32
+d1pca_2 1.2E-31
+d1nsa_2 6E-30
+d1pba__ 5.8E-26

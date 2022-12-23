@@ -1,0 +1,6 @@
+1 d1fnga2 1.1E-43
+1 d1hdma2 1.3E-43
+1 d1fv1a2 1.4E-43
+1 d1jk8a2 2.9E-43
+1 d1es0a2 5.4E-43
+1 d1iaka2 1E-42

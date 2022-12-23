@@ -1,0 +1,10 @@
+d1jk0a_ 2.6E-82
+d1jk0b_ 1.6E-74
+d1jqca_ 8.4E-74
+d1r2fa_ 1.1E-70
+d1kgna_ 1.4E-69
+d1mtyd_ 1.7E-06
+d1mhyd_ 1.1E-05
+d1afra_ 0.00024
+d1mtyb_ 0.0009
+d1mhyb_ 0.00091

@@ -1,0 +1,10 @@
+1 d1yaga2 2.1E-66
+1 d1d4xa2 9.9E-66
+1 d1k8ka2 2.6E-64
+1 d1dgaa2 7.5E-61
+1 d1k8kb1 3.9E-53
+1 d1jcfa2 5.9E-13
+1 d1bupa2 1.4E-08
+1 d1hjoa2 1.1E-06
+1 d1dkgd2 3.8E-05
+1 d1e4ft2 0.00014

@@ -1,0 +1,11 @@
+d1dtja_ 1.5E-21
+d1dt4a_ 2.3E-21
+d1khma_ 3.3E-21
+d1ec6a_ 6.2E-21
+d2fmr__ 2.1E-18
+d1e3ha4 2.3E-15
+d1k1ga_ 1E-13
+d1hh2p3 1.5E-08
+d1k0ra3 2.3E-08
+d1fjgc1 7.7E-05
+d1egaa2 0.0004

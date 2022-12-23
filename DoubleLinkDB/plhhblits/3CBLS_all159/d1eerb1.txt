@@ -1,0 +1,6 @@
+1 d1axib1 4E-30
+1 d1bp3b1 2.2E-27
+1 d1f6fb1 7.8E-27
+1 d1bqua1 7.3E-26
+1 d1cd9b1 1.2E-23
+1 d1gh7a3 3E-13

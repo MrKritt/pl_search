@@ -1,0 +1,15 @@
+d1a5da2 2.7E-34
+d1amm_2 3.1E-34
+d1a45_2 3.2E-34
+d1elpa2 3.3E-34
+d1ha4a_ 5.1E-34
+d1a7ha_ 6.9E-34
+d1elpa1 2.9E-33
+d1amm_1 3.1E-33
+d1a5da1 6.8E-33
+d1a45_1 8.8E-33
+d2bb2_1 2.6E-32
+d1bd7a_ 1.9E-29
+d1npsa_ 2.7E-25
+d1prr_2 2.8E-24
+d1hdfa_ 2.8E-24

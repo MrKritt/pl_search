@@ -1,0 +1,4 @@
+1 d1jlxa1 1.6E-53
+0 d1dfca3 3.3E-12
+0 d1dfca4 1.1E-09
+0 d1dfca1 3.4E-09

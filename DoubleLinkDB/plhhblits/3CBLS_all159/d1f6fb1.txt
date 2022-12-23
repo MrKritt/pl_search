@@ -1,0 +1,10 @@
+1 d1axib1 7.4E-37
+1 d1bp3b1 1.1E-35
+1 d1bqua1 2.5E-34
+1 d1cd9b1 2.8E-33
+1 d1eerb1 1.4E-27
+1 d1gh7a3 1.3E-14
+1 d1j7vr1 9.4E-08
+1 g1dan.1 1.1E-06
+1 d1fyhb1 5.3E-06
+1 d1iarb1 1E-05

@@ -1,0 +1,7 @@
+d1cyg_2 1E-33
+d1ciu_2 2.2E-33
+d1kcla2 2.7E-33
+d1acz__ 6.6E-33
+d1pama2 8.2E-33
+d1qhoa2 1.3E-32
+d1cqya_ 1.4E-31

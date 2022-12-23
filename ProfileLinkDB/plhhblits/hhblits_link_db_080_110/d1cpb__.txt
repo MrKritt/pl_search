@@ -1,0 +1,6 @@
+d1pca_1 2.5E-73
+d1nsa_1 2.3E-72
+d2ctc__ 2.2E-71
+d1dtda_ 8.1E-71
+d1obr__ 1E-66
+d1h8la2 4E-63

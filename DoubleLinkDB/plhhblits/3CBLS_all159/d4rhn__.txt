@@ -1,0 +1,5 @@
+1 d1kpf__ 1.3E-38
+1 d1emsa1 5.4E-34
+1 d1guqa2 1.5E-33
+1 d1fit__ 3.4E-31
+1 d1guqa1 7E-10

@@ -1,0 +1,8 @@
+d1be3b1 1E-25
+d1hr6a1 4.4E-24
+d1be3a1 2.4E-22
+d1hr6b1 2.3E-20
+d1bcca1 2.8E-20
+d1ezva1 5.6E-19
+d1ezvb1 4.7E-18
+d1hr6b2 3.1E-06

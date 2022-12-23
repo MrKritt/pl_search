@@ -1,0 +1,16 @@
+1 d1gdha2 2.4E-24
+1 d1psda2 2E-23
+1 d1dxy_2 7.7E-22
+1 d2dlda2 1.6E-21
+1 d2naca2 4.3E-18
+0 d1psda1 8.5E-12
+0 d1gdha1 1.1E-10
+0 d1dxy_1 3.7E-10
+0 d1gtma1 5.3E-06
+0 d1bvua1 2.3E-05
+0 d1euza1 2.4E-05
+0 d1qp8a1 4E-05
+0 d2dlda1 9E-05
+0 d1qmga2 0.00019
+0 d1leha1 0.00021
+0 d1c1da1 0.00034

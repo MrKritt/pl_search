@@ -1,0 +1,8 @@
+d1qsta_ 8.5E-26
+d1cm0a_ 2.3E-18
+d1qsma_ 1.7E-07
+d1cjwa_ 2.1E-07
+d1b87a_ 2.2E-06
+d1i12a_ 7.2E-06
+d1bo4a_ 2.1E-05
+d1iica1 5.4E-05

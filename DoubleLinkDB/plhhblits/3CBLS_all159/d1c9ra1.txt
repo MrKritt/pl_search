@@ -1,0 +1,6 @@
+1 d1jlaa1 2.4E-24
+1 d1hrha1 2.5E-24
+1 d1vrta1 1.8E-23
+1 d1jl1a_ 2E-16
+1 d1jl2a_ 3.1E-16
+1 d1ril__ 3.6E-16

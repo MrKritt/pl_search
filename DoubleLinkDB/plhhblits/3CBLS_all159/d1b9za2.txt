@@ -1,0 +1,17 @@
+1 d1fa2a_ 4E-144
+1 d1byb__ 4E-144
+1 d1b1ya_ 2E-143
+1 d1e4ia_ 2.9E-11
+1 d1pbga_ 3.3E-11
+1 d1qvba_ 8.4E-11
+1 d1e55a_ 9.1E-11
+1 d1qoxa_ 9.5E-11
+1 d1gowa_ 2.1E-10
+1 d1cbg__ 2.1E-10
+1 d1e4mm_ 3.1E-10
+1 d1cz1a_ 1.8E-07
+1 d1tux__ 4.3E-07
+1 d1fxma_ 6.5E-07
+1 d1bg4__ 1.5E-06
+1 d1hiza_ 3.7E-05
+1 d1clxa_ 0.00026

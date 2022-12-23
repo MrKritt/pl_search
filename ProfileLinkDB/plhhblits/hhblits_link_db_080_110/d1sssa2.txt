@@ -1,0 +1,12 @@
+d1b06a2 7.8E-57
+d1idsa2 2.2E-55
+d1dt0a2 4.7E-55
+d1kkca2 6.8E-55
+d1isaa2 6.9E-55
+d1qnna2 1.4E-54
+d1mnga2 1.5E-54
+d1i0ha2 3.6E-54
+d1bsma2 4.9E-54
+d1ap6a2 7.1E-54
+d3sdpa2 4.8E-53
+d1coja2 1.7E-52

@@ -1,0 +1,12 @@
+d1e2wa2 1.1E-31
+d1hcz_2 1.6E-30
+d2f3ga_ 8.8E-18
+d2gpr__ 2.1E-17
+d1gpr__ 2.7E-17
+d1glaf_ 3.8E-16
+d1bdo__ 2E-05
+d1dd2a_ 0.00026
+d1brwa3 0.00088
+d2tpt_3 0.0009
+d1ghk__ 0.00098
+d1k8ma_ 0.001

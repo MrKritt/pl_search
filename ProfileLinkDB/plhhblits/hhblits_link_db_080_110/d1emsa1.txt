@@ -1,0 +1,5 @@
+d1fit__ 1.2E-35
+d4rhn__ 1E-30
+d1kpf__ 5.2E-30
+d1guqa2 1.2E-29
+d1guqa1 1.1E-08

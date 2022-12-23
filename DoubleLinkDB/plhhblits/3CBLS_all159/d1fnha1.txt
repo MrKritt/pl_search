@@ -1,0 +1,16 @@
+1 d1ten__ 4.3E-12
+1 d1qr4a2 1.7E-11
+1 d1fnf_3 2.6E-11
+1 d1fnha2 7.6E-11
+1 d1fnf_1 1E-10
+1 d2fnba_ 3.4E-10
+1 d1j8ka_ 1.5E-09
+1 d1fnf_2 1.6E-09
+1 d2mfn_1 2.5E-09
+1 d2mfn_2 4.6E-09
+1 d1qr4a1 1.9E-08
+1 d1fnha3 7.5E-08
+1 d1fna__ 2.5E-07
+1 d1qg3a1 1.6E-06
+1 d1qg3a2 1.6E-06
+1 d1bqua2 0.00069

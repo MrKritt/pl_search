@@ -1,0 +1,16 @@
+1 d1bg6_2 1.4E-13
+1 d1jaya_ 1.7E-09
+1 d1f0ya2 8.1E-08
+1 d1dlja2 1.3E-07
+1 d1pgja2 9.3E-07
+1 d1guza1 1.3E-06
+1 d2pgd_2 2.7E-06
+1 d1ks9a2 3.7E-06
+1 d1gv0a1 1.1E-05
+1 d1guya1 1.6E-05
+1 d1ez4a1 3E-05
+1 d1ldna1 4.3E-05
+1 d1llda1 5.7E-05
+1 d1a5z_1 7.1E-05
+1 d1hyha1 0.00042
+1 d1ceqa1 0.0005

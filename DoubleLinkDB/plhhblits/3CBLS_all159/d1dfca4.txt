@@ -1,0 +1,14 @@
+1 d1dfca3 1.9E-29
+1 d1dfca2 3.8E-29
+1 d1dfca1 4.7E-26
+1 d1hcd__ 2.1E-10
+0 d1jlxa2 6.9E-10
+0 d1fmms_ 2.3E-05
+0 d1qqla_ 2.3E-05
+0 d1bfg__ 2.4E-05
+0 d2afga_ 2.7E-05
+0 d1bara_ 4.4E-05
+0 d1jqza_ 4.4E-05
+0 d1bla__ 8.9E-05
+0 d1qqka_ 0.00012
+0 d1ijta_ 0.00014

@@ -1,0 +1,8 @@
+1 d1qfla1 1.1E-52
+1 d1hzpa1 3.6E-15
+1 d1hnja1 3.1E-14
+1 d1ee0a1 6.1E-14
+1 d1bi5a1 1.4E-13
+1 d1ek4a1 1.5E-10
+1 d1kas_1 1.8E-10
+1 d1e5ma1 1.9E-10

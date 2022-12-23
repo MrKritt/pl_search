@@ -1,0 +1,11 @@
+0 d1ds9a_ 1.1E-10
+1 d1koha1 7.9E-10
+1 d1dcea3 8.1E-09
+1 d1h6ua2 3E-07
+1 d1jl5a_ 6.3E-06
+1 d1h6ta2 6.3E-06
+0 d1a4ya_ 2.6E-05
+0 d2bnh__ 2.9E-05
+0 d1fqva2 5.9E-05
+0 d1fs2a2 0.0002
+0 d1yrga_ 0.0005

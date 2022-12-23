@@ -1,0 +1,9 @@
+1 d1dtja_ 1.7E-21
+1 d1dt4a_ 3.4E-21
+1 d1vig__ 1.5E-19
+1 d1khma_ 2.9E-19
+1 d2fmr__ 9.3E-16
+1 d1k1ga_ 4.5E-15
+0 d1e3ha4 5.6E-13
+0 d1hh2p3 1.4E-09
+0 d1k0ra3 2E-09

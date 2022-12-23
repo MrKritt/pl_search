@@ -1,0 +1,12 @@
+1 d1idsa1 2.6E-43
+1 d1dt0a1 6E-43
+1 d1ap6a1 9.7E-43
+1 d1qnna1 1.3E-42
+1 d1bsma1 5.3E-42
+1 d1kkca1 6.2E-42
+1 d3sdpa1 3.8E-41
+1 d1mnga1 6.4E-41
+1 d1b06a1 7.7E-41
+1 d1sssa1 1.2E-40
+1 d1i0ha1 2.1E-40
+1 d1coja1 2.6E-39

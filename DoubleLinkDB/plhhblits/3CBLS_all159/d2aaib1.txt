@@ -1,0 +1,9 @@
+1 d1abrb1 2.7E-25
+1 d1hwmb1 4E-24
+1 d1ce7b1 5.7E-24
+1 d1xyfa1 1.4E-17
+1 d1hwmb2 6.2E-16
+1 d1abrb2 7.8E-16
+1 d2aaib2 1.7E-15
+1 d1ce7b2 1.6E-14
+1 d1dqga_ 5.6E-07

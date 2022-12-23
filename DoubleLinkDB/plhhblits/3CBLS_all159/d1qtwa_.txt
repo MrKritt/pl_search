@@ -1,0 +1,11 @@
+1 d1bxca_ 2.2E-16
+1 d1bxba_ 2.3E-16
+1 d1xis__ 2.5E-16
+1 d4xiaa_ 4.1E-16
+1 d1xima_ 4.1E-16
+1 d1dxia_ 3.8E-15
+1 d2gyia_ 5.1E-15
+1 d1qt1a_ 1.1E-14
+1 d1a0ea_ 1.3E-12
+1 d1a0da_ 1.4E-12
+1 d1a0ca_ 3.3E-12

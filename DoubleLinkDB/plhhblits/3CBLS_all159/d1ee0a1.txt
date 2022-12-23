@@ -1,0 +1,7 @@
+1 d1bi5a1 3.5E-38
+1 d1hzpa1 1.7E-31
+1 d1hnja1 3.9E-30
+1 d1kas_1 1.5E-16
+1 d1e5ma1 3.1E-16
+1 d1afwa1 7.9E-16
+1 d1qfla1 2E-15

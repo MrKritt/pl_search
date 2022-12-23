@@ -1,0 +1,4 @@
+1 d1jsub2 3.9E-43
+1 d1aisb2 9.7E-08
+1 d1vola2 1.4E-07
+1 d1aisb1 7.4E-07

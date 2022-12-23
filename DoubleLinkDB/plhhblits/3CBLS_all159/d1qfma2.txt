@@ -1,0 +1,17 @@
+1 d1qe3a_ 4.9E-11
+1 d1evqa_ 4.8E-10
+1 d1din__ 2.6E-09
+1 d1jjia_ 3.7E-09
+1 d1jjfa_ 8.5E-09
+1 d1jkma_ 5.2E-08
+1 d1auoa_ 3E-07
+1 d1jfra_ 6.6E-07
+1 d1fj2a_ 2.3E-06
+1 d1thg__ 3.5E-06
+1 d1lpp__ 1.9E-05
+1 d1clea_ 2.8E-05
+1 d1maaa_ 3.1E-05
+1 d1ea5a_ 5.8E-05
+1 d1gkla_ 0.00013
+1 d1f6wa_ 0.0003
+1 d2bce__ 0.001

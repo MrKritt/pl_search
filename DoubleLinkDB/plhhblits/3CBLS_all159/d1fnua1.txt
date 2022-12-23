@@ -1,0 +1,10 @@
+1 d1i4pa1 1.1E-51
+1 d1jckb1 1.4E-51
+1 d1bxta1 2.7E-51
+1 d3seb_1 4.2E-51
+1 d1sebd1 4.8E-50
+1 d1esfa1 1.5E-48
+1 d1enfa1 8.8E-48
+1 d1an8_1 8.4E-32
+1 d1eu3a1 3.2E-22
+1 d1et9a1 9.4E-16

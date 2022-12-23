@@ -1,0 +1,9 @@
+d2aaib1 3.9E-20
+d1hwmb1 9.5E-19
+d1abrb1 3.3E-18
+d1xyfa1 3.4E-12
+d1abrb2 1.8E-11
+d1hwmb2 1.2E-10
+d2aaib2 3.3E-10
+d1ce7b2 4E-09
+d1dqga_ 5.6E-07

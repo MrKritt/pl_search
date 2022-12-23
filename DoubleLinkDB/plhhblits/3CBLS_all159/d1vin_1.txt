@@ -1,0 +1,8 @@
+1 d1g3nc1 1.6E-38
+1 d1bu2a1 6E-38
+1 d1f5qb1 8.8E-38
+1 d1jkw_1 4.6E-27
+1 d1aisb1 1.4E-09
+1 d1vola1 1.1E-08
+1 d1aisb2 2.5E-07
+1 d1vola2 1.1E-06

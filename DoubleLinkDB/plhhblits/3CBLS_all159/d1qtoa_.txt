@@ -1,0 +1,5 @@
+1 d1byla_ 2.4E-16
+1 d1ecsa_ 2.3E-08
+1 d1mpya2 2.7E-06
+1 d1mpya1 3.1E-06
+1 d1han_1 1.3E-05

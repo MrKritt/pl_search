@@ -1,0 +1,5 @@
+d1dxrl1 1E-131
+d1eysl1 2E-130
+d1dxrm1 1E-112
+d1qovm1 2E-112
+d1eysm1 7E-112

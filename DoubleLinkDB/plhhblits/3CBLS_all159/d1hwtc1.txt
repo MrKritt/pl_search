@@ -1,0 +1,7 @@
+1 d2hapc1 2.9E-10
+1 d2alca_ 2.3E-06
+1 d1d66a1 2E-06
+1 d1aw6__ 2.7E-06
+1 d1pyia1 4.8E-06
+1 d1zmec1 1.1E-05
+1 d1cld__ 3.4E-05

@@ -1,0 +1,14 @@
+1 d1g3qa_ 3.2E-39
+1 d1iona_ 6.8E-39
+1 d1fp6a_ 2.2E-32
+1 d1cp2a_ 3.5E-32
+1 d1ihua2 3.1E-23
+1 d1byi__ 5E-22
+1 d1ihua1 1.4E-20
+1 d1fts_2 1.2E-11
+1 d1j8mf2 4.9E-11
+1 d1eg7a_ 3.3E-10
+1 d1jpna2 4.2E-08
+1 d2reb_1 4.6E-06
+1 d1nksa_ 0.00025
+1 d1g3ua_ 0.00026

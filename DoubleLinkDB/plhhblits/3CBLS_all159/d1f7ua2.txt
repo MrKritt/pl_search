@@ -1,0 +1,8 @@
+1 d1iq0a2 1.4E-67
+1 d1f4la2 6.3E-42
+1 d1a8h_2 1.4E-41
+1 d1ffya3 5.1E-24
+1 d1gaxa3 6E-24
+1 d1ile_3 1.5E-23
+1 d1gln_2 1.3E-18
+1 d1gtra2 3.1E-18

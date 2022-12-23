@@ -1,0 +1,6 @@
+d1nhp_1 3.5E-16
+d1h7wa4 7E-15
+d1vdc_1 8.4E-14
+d1aoga1 8.7E-14
+d1d7ya1 7E-06
+d1fcda1 0.00016

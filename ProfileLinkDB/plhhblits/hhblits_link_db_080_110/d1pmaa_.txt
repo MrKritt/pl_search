@@ -1,0 +1,17 @@
+d1rype_ 9.3E-60
+d1rypf_ 2.4E-59
+d1rypb_ 1.5E-58
+d1rypc_ 2E-58
+d1rypa_ 2E-58
+d1rypg_ 2.2E-58
+d1rypd_ 6.1E-58
+d1ryph_ 7.8E-47
+d1pma1_ 1.3E-46
+d1ryp2_ 8.8E-46
+d1rypl_ 2.6E-45
+d1rypk_ 3.1E-45
+d1rypi_ 1E-44
+d1ryp1_ 2.7E-44
+d1rypj_ 3.4E-44
+d1ht1a_ 3.6E-36
+d1jjwa_ 5E-35

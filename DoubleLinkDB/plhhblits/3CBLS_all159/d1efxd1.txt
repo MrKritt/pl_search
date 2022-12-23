@@ -1,0 +1,7 @@
+1 d1nkr_2 6E-18
+1 d1efxd2 5.3E-17
+1 d1g0xa2 7.5E-16
+1 d1nkr_1 5E-15
+1 d1g0xa1 1.3E-10
+1 d1fnla2 9.7E-05
+1 d2fcba2 0.0008

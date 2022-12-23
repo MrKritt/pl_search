@@ -1,0 +1,6 @@
+1 d1bfd_2 3E-43
+1 d1poxa2 4.5E-43
+1 d1pvda2 7.2E-42
+1 d1zpda2 8.4E-41
+1 d1keka1 3.2E-28
+1 d1gpua2 2.4E-05

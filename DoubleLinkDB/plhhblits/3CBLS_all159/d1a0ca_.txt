@@ -1,0 +1,12 @@
+1 d1a0ea_ 4E-100
+1 d1a0da_ 1E-98
+1 d1bxca_ 2.9E-71
+1 d1bxba_ 5E-71
+1 d1qt1a_ 5.1E-71
+1 d4xiaa_ 1E-70
+1 d1xima_ 1.2E-70
+1 d1dxia_ 2.1E-70
+1 d1xis__ 2.7E-70
+1 d2gyia_ 8.7E-70
+1 d1qtwa_ 4.1E-28
+1 d1d8wa_ 3.2E-23

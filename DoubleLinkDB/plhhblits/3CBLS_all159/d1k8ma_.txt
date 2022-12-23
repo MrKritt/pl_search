@@ -1,0 +1,12 @@
+1 d1gjxa_ 1.4E-20
+1 d1ghk__ 2E-20
+1 d1fyc__ 3.3E-20
+1 d1pmr__ 3.4E-20
+1 d1iyu__ 3.9E-20
+1 d1qjoa_ 5.9E-20
+1 d1lac__ 7.5E-19
+1 d1bdo__ 5.3E-17
+1 d1dd2a_ 4.2E-16
+1 d1htp__ 8.3E-10
+0 d1gpr__ 4.6E-06
+0 d2gpr__ 7.2E-05

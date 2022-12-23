@@ -1,0 +1,7 @@
+1 d1bxna2 6.1E-49
+1 d1rbla2 1.4E-47
+1 d1bwva2 1.7E-47
+1 d1bura2 4.2E-47
+1 d1gk8a2 5E-47
+1 d1geha2 4.7E-46
+1 d5ruba2 1.4E-42

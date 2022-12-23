@@ -1,0 +1,7 @@
+0 d1dgwa_ 9.5e-07
+0 g1dgw.1 1e-06
+0 d1fxza2 1e-06
+0 d2phla2 1.6e-06
+0 d1fi2a_ 2.5e-06
+0 d2phla1 5.7e-06
+0 d1fxza1 8.3e-06

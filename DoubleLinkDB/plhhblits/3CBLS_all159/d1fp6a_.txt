@@ -1,0 +1,16 @@
+1 d1cp2a_ 2.4E-33
+1 d1iona_ 7.3E-22
+1 d1g3qa_ 2.1E-21
+1 d1hyqa_ 3E-20
+1 d1ihua2 4.9E-12
+1 d1byi__ 2E-09
+1 d1j8mf2 2.7E-09
+1 d1fts_2 1.4E-08
+1 d1ihua1 2E-08
+1 d1jpna2 2.4E-08
+1 d1eg7a_ 2.9E-05
+1 d2reb_1 3.7E-05
+1 d1g8ya_ 6.4E-05
+1 d1iqpa2 0.00011
+1 d1exma3 0.00044
+1 d1efm_1 0.00083

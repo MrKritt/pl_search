@@ -1,0 +1,12 @@
+d2bus__ 4.6E-21
+d1sgpi_ 6.2E-20
+d3ovo__ 1.4E-19
+d1hpt__ 7.7E-19
+d2ovo__ 8.8E-19
+d1tbrr1 1.1E-18
+d1tgsi_ 3.7E-18
+d1nuba3 4.1E-17
+d1tbrr2 5.5E-17
+d1hdla_ 8.2E-17
+d1an1i_ 2E-16
+d1ldtl_ 8.5E-16

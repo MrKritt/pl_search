@@ -1,0 +1,9 @@
+1 d1qc5a_ 6.6E-32
+1 d1aoxa_ 4.2E-27
+1 d1ido__ 1E-24
+1 d1atza_ 4.8E-24
+1 d1lfaa_ 5.6E-24
+1 d1fnsa_ 1.2E-23
+1 d1jv2b2 5E-05
+0 d1jeyb_ 0.00032
+0 d1jeya_ 0.0008

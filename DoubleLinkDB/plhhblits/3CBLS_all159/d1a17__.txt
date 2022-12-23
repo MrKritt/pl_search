@@ -1,0 +1,7 @@
+1 d1ihga1 3.5E-13
+1 d1elwa_ 4.4E-13
+1 d1elra_ 1.8E-12
+1 d1fcha_ 8.3E-10
+1 d1hh8a_ 1.6E-09
+1 d1iipa1 2.2E-09
+0 d1dcea1 5E-07

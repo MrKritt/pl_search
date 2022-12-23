@@ -1,0 +1,5 @@
+1 d1gdha2 1E-27
+1 d1dxy_2 5.7E-27
+1 d2dlda2 7.5E-27
+1 d1qp8a2 8.1E-22
+1 d2naca2 7.4E-19

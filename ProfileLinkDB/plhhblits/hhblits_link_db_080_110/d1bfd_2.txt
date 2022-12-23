@@ -1,0 +1,12 @@
+d1jsca2 8.9E-50
+d1poxa2 6.5E-49
+d1pvda2 2E-47
+d1zpda2 3E-47
+d1keka1 2.2E-12
+d1gpua2 2.4E-05
+d1jsca3 0.00011
+d1ik6a1 0.00016
+d1poxa3 0.00018
+d1pvda3 0.00036
+d1dtwb1 0.00037
+d1bfd_3 0.00056

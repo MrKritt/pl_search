@@ -1,0 +1,8 @@
+1 d1qq4a_ 5.1E-37
+1 d1hpga_ 1.9E-35
+1 d2sfa__ 6E-33
+1 d2sga__ 2.1E-32
+1 d1arb__ 1.3E-08
+1 d1ezxc_ 2.6E-06
+1 d1agja_ 1.8E-05
+1 d1eq9a_ 0.00053

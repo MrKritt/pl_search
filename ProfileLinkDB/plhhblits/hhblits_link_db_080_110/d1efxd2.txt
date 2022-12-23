@@ -1,0 +1,16 @@
+d1nkr_2 4.9E-22
+d1g0xa2 7.5E-19
+d1nkr_1 8.4E-19
+d1efxd1 1E-18
+d1g0xa1 9.7E-13
+d1iam_1 1.3E-06
+d1ic1a1 3.6E-06
+d1fnla1 2.9E-05
+d1vcaa1 7.3E-05
+d1cdy_2 0.00015
+d1f2qa2 0.00018
+d1f2qa1 0.00027
+d2fcba2 0.00031
+d1tcrb1 0.00056
+d1fcga1 0.00065
+d1fnla2 0.0008

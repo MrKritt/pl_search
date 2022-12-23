@@ -1,0 +1,5 @@
+1 d2btci_ 2.5E-27
+1 d2stai_ 2.6E-27
+1 d2let__ 1.5E-26
+1 d1f2si_ 1.2E-25
+1 d1mcti_ 1.4E-25

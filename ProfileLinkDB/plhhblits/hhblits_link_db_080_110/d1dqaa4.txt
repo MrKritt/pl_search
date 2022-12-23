@@ -1,0 +1,4 @@
+d1hw8a2 3E-102
+d1hw8c2 3.1E-89
+d1qaxa2 6.2E-87
+d1qaxb2 1.7E-83

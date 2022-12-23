@@ -1,0 +1,7 @@
+d1bfd_2 3E-43
+d1poxa2 4.5E-43
+d1pvda2 7.2E-42
+d1zpda2 8.4E-41
+d1keka1 3.2E-28
+d1gpua2 2.4E-05
+d1ik6a1 0.00013

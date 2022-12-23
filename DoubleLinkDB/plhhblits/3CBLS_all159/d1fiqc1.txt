@@ -1,0 +1,6 @@
+1 d1jrob1 1.2E-43
+1 d1qj2b1 1.4E-43
+1 d1ffvb1 2.7E-43
+1 d1fo4a3 4.3E-43
+1 d1dgja3 5.6E-37
+1 d1hlra3 2.3E-36

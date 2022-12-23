@@ -1,0 +1,9 @@
+d1smvc_ 1.8E-71
+d4sbvc_ 2.1E-71
+d1f2nc_ 1.8E-69
+d1c8na_ 4E-65
+d1smva_ 6E-64
+d4sbva_ 7.7E-64
+d1f2na_ 8.5E-63
+d2tbvc_ 4.2E-61
+d2tbva_ 1E-53

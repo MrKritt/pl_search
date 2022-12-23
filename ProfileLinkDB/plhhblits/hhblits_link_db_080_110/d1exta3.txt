@@ -1,0 +1,9 @@
+d1ncfb3 2.9E-16
+d1d4va2 1.4E-15
+d1jmab2 2.5E-14
+d1ncfa3 2.7E-14
+d1exta1 9.9E-14
+d1exta2 2.5E-11
+d1d0gr1 9.4E-11
+d1d4va1 2E-10
+d1jmab1 1E-06

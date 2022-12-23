@@ -1,0 +1,12 @@
+d1aisb1 1.6E-32
+d1aisb2 2.6E-31
+d1vola1 3E-30
+d1jkw_1 2E-08
+d1vin_2 8E-07
+d1jsub2 9E-07
+d1guxb_ 1.1E-06
+d1g3nc1 1.5E-06
+d1vin_1 1.7E-06
+d1f5qb1 2.8E-06
+d1bu2a1 7.1E-06
+d1j75a_ 0.00038

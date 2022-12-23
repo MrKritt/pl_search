@@ -1,0 +1,8 @@
+d2pola1 2.3E-28
+d2pola3 2.4E-07
+d1ge8a1 8.7E-06
+d1ge8a2 1.5E-05
+d1plq_2 2.1E-05
+d1axca2 5.1E-05
+d1plq_1 6.7E-05
+d1axca1 7.8E-05

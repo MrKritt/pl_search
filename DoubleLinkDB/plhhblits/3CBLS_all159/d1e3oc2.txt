@@ -1,0 +1,13 @@
+1 d1au7a2 1.7E-29
+1 d1dw9a1 6.1E-13
+1 d1lmb3_ 2E-12
+1 d1llib_ 3E-11
+1 d2cro__ 1.6E-10
+1 d1r69__ 1.7E-10
+1 d1ner__ 2.2E-10
+1 d1adr__ 2.5E-10
+1 d1b0na2 8E-10
+0 d1jhga_ 1E-05
+0 d1trra_ 1.1E-05
+1 d1d1la_ 3E-05
+1 d1copd_ 3.1E-05

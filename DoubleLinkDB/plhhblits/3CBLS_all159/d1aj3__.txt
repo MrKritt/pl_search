@@ -1,0 +1,7 @@
+1 d1cuna2 3.1E-29
+1 d1cuna1 2.1E-28
+1 d1quua1 4.8E-28
+1 d2spca_ 8.1E-27
+1 d1quua2 1.4E-05
+1 d1hcia1 0.0001
+1 d1hcia4 0.00021

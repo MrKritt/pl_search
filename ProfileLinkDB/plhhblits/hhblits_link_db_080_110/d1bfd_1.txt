@@ -1,0 +1,11 @@
+d1zpda1 9E-32
+d1qpba1 8E-31
+d1jsca1 3.8E-30
+d1poxa1 3E-29
+d1pvda1 3.1E-29
+d1efva2 2.4E-27
+d1efpa2 9.9E-27
+d1j8fa_ 0.00015
+d1icia_ 0.00037
+d1hzzc_ 0.00055
+d1d4oa_ 0.00083

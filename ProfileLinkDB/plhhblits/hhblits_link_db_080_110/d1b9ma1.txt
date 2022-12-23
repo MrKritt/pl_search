@@ -1,0 +1,9 @@
+d3orca_ 8.1E-11
+d1smta_ 6.4E-09
+d1d1la_ 1.5E-08
+d1bjaa_ 2.3E-07
+d1copd_ 2.5E-07
+d1bia_1 1.1E-06
+d1fsea_ 0.0001
+d1i1ga1 0.00012
+d1j75a_ 0.00082

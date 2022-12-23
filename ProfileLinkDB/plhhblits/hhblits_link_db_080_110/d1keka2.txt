@@ -1,0 +1,10 @@
+d1poxa3 1.1E-26
+d1jsca3 5.8E-24
+d1bfd_3 6.3E-24
+d1pvda3 7.3E-24
+d1zpda3 6.8E-23
+d1dtwa1 8.7E-14
+d1gpua1 1.9E-11
+d1qs0a1 9.3E-11
+d1bfd_2 0.00074
+d1poxa2 0.00092

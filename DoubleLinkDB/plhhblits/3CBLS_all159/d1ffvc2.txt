@@ -1,0 +1,10 @@
+1 d1qj2c2 2.2E-46
+1 d1fiqb2 3.5E-44
+1 d1jroa4 3.9E-43
+1 d1fo4a6 7.5E-42
+1 d1hska1 1.1E-24
+1 d1uxy_1 2.6E-23
+1 d1i19a2 9.5E-16
+1 d1diqa2 2.3E-15
+1 d1e8ga2 2.1E-14
+1 d1f0xa2 5.5E-10

@@ -1,0 +1,15 @@
+1 d1jae_1 2.5E-37
+1 d1smd_1 6E-37
+1 d1hx0a1 1.3E-36
+1 d1bag_1 6.2E-25
+1 d1qhoa3 1.2E-15
+1 d1cyg_3 5.8E-15
+1 d1cgt_3 1.1E-14
+1 d1pama3 1E-13
+1 d1ciu_3 1.3E-13
+1 d1kcla3 2.3E-13
+1 d7taa_1 9.3E-06
+1 d2taaa1 9.8E-06
+1 d2aaa_1 1.1E-05
+1 d1hvxa1 5.2E-05
+1 d1e43a1 0.0001

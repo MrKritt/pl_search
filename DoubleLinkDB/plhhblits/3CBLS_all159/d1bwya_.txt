@@ -1,0 +1,17 @@
+1 d1fdqa_ 9.4E-50
+1 d1b56__ 1.2E-49
+1 d1crb__ 1.2E-49
+1 d1ggla_ 1.4E-49
+1 d1hms__ 2.1E-49
+1 d1opaa_ 2.5E-49
+1 d1ftpa_ 2.9E-49
+1 d1pmpa_ 3.4E-49
+1 d3ifba_ 5.6E-49
+1 d1lid__ 6.5E-49
+1 d1ifc__ 1.8E-48
+1 d1cbia_ 5.1E-48
+1 d1cbs__ 6.5E-48
+1 d1lfo__ 6.8E-48
+1 d1mdc__ 9.3E-48
+1 d1eal__ 3E-47
+1 d1a57__ 4.6E-41

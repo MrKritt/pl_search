@@ -1,0 +1,8 @@
+1 d2liv__ 1.9E-42
+1 d1pea__ 9.9E-36
+1 d1ewka_ 8.2E-35
+1 d1jdpa_ 7.3E-32
+1 d1dp4a_ 2E-29
+1 d1gca__ 3.3E-06
+1 d1jyea_ 0.00098
+1 d1tlfa_ 0.001

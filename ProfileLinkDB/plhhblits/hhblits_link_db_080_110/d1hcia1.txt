@@ -1,0 +1,7 @@
+d1quua2 1.4E-13
+d1cuna1 1.4E-05
+d1cuna2 2.4E-05
+d1aj3__ 7.4E-05
+d1quua1 7.5E-05
+d2spca_ 0.00027
+d1hcia4 0.00041

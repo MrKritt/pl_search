@@ -1,0 +1,12 @@
+1 d1keva2 3.4E-20
+1 d1cdoa2 2.8E-14
+1 d1e3ja2 5.4E-13
+1 d1teha2 5.8E-13
+1 d1d1ta2 3.3E-12
+1 d1e3ia2 5.8E-12
+1 d1ht0a2 9.5E-12
+1 d1heta2 8E-11
+1 d1qora2 3E-10
+1 d1f8ga1 1.6E-09
+1 d1pjca1 3.6E-05
+0 d1jg1a_ 0.00021

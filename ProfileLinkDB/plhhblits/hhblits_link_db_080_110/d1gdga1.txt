@@ -1,0 +1,13 @@
+d1han_1 2.3E-13
+d1mpya1 2.8E-10
+d1han_2 4.7E-07
+d1mpya2 9.5E-07
+d1cjxa2 2.2E-06
+d1byla_ 5.5E-06
+d1gdga2 5.7E-06
+d1f9za_ 8.2E-06
+d1cjxa1 4.5E-05
+d1ecsa_ 7.8E-05
+d1qipa_ 0.0001
+d1jc4a_ 0.00021
+d1qtoa_ 0.00067

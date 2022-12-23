@@ -1,0 +1,9 @@
+1 d1jvna2 1.8E-29
+1 d1gpma2 4.2E-20
+1 d1i1qb_ 1.6E-19
+1 d1qdlb_ 3.5E-18
+1 d1i7qb_ 3.7E-18
+1 d1a9xb2 3.6E-16
+1 d1fyea_ 5.6E-07
+1 d1g2ia_ 5.7E-06
+1 d1cf9a1 0.00045

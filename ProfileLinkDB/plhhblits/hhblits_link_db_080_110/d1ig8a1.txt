@@ -1,0 +1,7 @@
+d1czan1 1.5E-52
+d1bg3a1 3.4E-52
+d1bdg_1 4.9E-52
+d1bg3a3 9.2E-52
+d1czan3 9.8E-52
+d1bu6o1 1.2E-09
+d1huxa_ 1.1E-08

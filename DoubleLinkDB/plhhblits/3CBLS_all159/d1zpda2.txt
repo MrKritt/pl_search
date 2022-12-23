@@ -1,0 +1,5 @@
+1 d1jsca2 4.8E-49
+1 d1poxa2 1.4E-48
+1 d1bfd_2 2.5E-48
+1 d1pvda2 3.6E-47
+1 d1keka1 4.7E-12

@@ -1,0 +1,9 @@
+1 d1i1qb_ 1.7E-40
+1 d1i7qb_ 2.6E-40
+1 d1gpma2 3.6E-38
+1 d1a9xb2 3.2E-36
+1 d1jvna2 1.2E-32
+1 d1k9vf_ 9.3E-31
+1 d1g2ia_ 3.5E-07
+1 d1fyea_ 4.9E-07
+1 d1cf9a1 5E-06

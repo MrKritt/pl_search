@@ -1,0 +1,6 @@
+d1qfha1 7.1E-32
+d1qfha2 8.7E-26
+d1cwva2 9.4E-11
+d1f00i1 1.1E-06
+d1cwva3 1.5E-05
+d1cwva1 0.00088

@@ -1,0 +1,9 @@
+1 d1poxa1 1.5E-30
+1 d1zpda1 3.1E-30
+1 d1bfd_1 1.1E-29
+1 d1qpba1 1.6E-29
+1 d1pvda1 9.6E-28
+1 d1efva2 7.5E-27
+1 d1efpa2 2.3E-26
+1 d1icia_ 0.00057
+1 d1d4oa_ 0.00073

@@ -1,0 +1,11 @@
+1 d1heta2 2.3E-14
+1 d1ht0a2 9.8E-14
+1 d1ykfa2 2.1E-13
+1 d1cdoa2 2.1E-12
+1 d1e3ia2 2.1E-12
+1 d1keva2 6.1E-12
+1 d1teha2 7.1E-12
+1 d1e3ja2 7.4E-11
+1 d1qora2 2E-09
+1 d1f8ga1 4.3E-07
+1 d1gpja2 0.00084

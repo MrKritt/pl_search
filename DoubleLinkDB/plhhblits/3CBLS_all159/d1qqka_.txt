@@ -1,0 +1,12 @@
+1 d1qqla_ 1.1E-54
+1 d1fmms_ 2.3E-54
+1 d1bara_ 1.1E-53
+1 d2afga_ 1.3E-53
+1 d1bfg__ 1.8E-53
+1 d1jqza_ 2.6E-53
+1 d1ihka_ 2.8E-52
+1 d1bla__ 7.8E-52
+1 d1ijta_ 2.6E-50
+0 d1dfca3 0.00013
+0 d1dfca4 0.0004
+0 d1dfca1 0.00048

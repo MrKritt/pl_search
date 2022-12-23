@@ -1,0 +1,16 @@
+1 d1qe0a2 5.5E-61
+1 d1kmma2 8.9E-60
+1 d1qf6a4 4.6E-25
+1 d1seta2 2.7E-23
+1 d1hc7a2 2.7E-23
+1 d1b76a2 2.6E-20
+1 d1atia2 3.8E-19
+1 d1g5ha2 3.6E-17
+1 d1e1oa2 3.2E-16
+1 d1b8aa2 3.3E-16
+1 d1bbua2 3.4E-16
+1 d1c0aa3 3.8E-16
+1 d1g51a3 3.8E-16
+1 d1eova2 1.8E-15
+1 d1jjca_ 1.6E-12
+1 d1jjcb5 1.6E-08

@@ -1,0 +1,11 @@
+1 d1en2a2 4.3E-19
+1 d1hev__ 5.4E-18
+1 d1en2a1 8.2E-18
+1 d1ehda1 9.2E-18
+1 d1wgta3 5.5E-17
+1 d9wgaa3 1.7E-16
+1 d9wgaa4 2.1E-16
+1 d9wgaa1 6.4E-16
+1 d1mmc__ 1.7E-13
+1 d2cwga2 2.3E-13
+1 d9wgaa2 2.8E-13

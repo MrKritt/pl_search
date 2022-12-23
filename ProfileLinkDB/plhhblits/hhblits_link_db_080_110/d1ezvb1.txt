@@ -1,0 +1,8 @@
+d1bccb1 1.4E-17
+d1bcca1 5.4E-17
+d1be3b1 3.3E-16
+d1hr6a1 3.7E-16
+d1hr6b1 5.4E-16
+d1ezva1 1.3E-14
+d1be3a1 4.2E-14
+d1hr6b2 0.001

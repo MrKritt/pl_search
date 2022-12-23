@@ -1,0 +1,14 @@
+1 d1hfi__ 3.8E-13
+1 d1hcc__ 4.6E-13
+1 d1g40a2 1.7E-12
+1 d1quba1 5.1E-12
+1 d1ghqb2 6.4E-12
+1 d1g40a3 9.9E-12
+1 d1quba2 1.1E-11
+1 d1ckla2 1.6E-11
+1 d1elva2 2.4E-11
+1 d1g40a4 6.9E-11
+1 d1ckla1 7.3E-11
+1 d1quba4 8.1E-11
+1 d1g40a1 2.1E-10
+1 d1quba3 2.6E-10

@@ -1,0 +1,7 @@
+d1vola1 2.5E-29
+d1jkw_1 5.8E-09
+d1vin_2 2.7E-07
+d1aisb1 7.9E-07
+d1jsub2 9E-07
+d1aisb2 1.2E-05
+d1vola2 0.00018

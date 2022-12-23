@@ -1,0 +1,8 @@
+1 d1bvza2 1.5E-13
+1 d1cgt_3 5.1E-12
+1 d1ciu_3 6.2E-12
+1 d1pama3 1.8E-11
+1 d1kcla3 3E-11
+1 d1qhoa3 5.1E-11
+1 d1cyg_3 9.2E-11
+1 d1uok_1 2.3E-10

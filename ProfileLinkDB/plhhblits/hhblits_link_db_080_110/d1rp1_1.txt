@@ -1,0 +1,6 @@
+d1bu8a1 5.2E-41
+d1hpla1 1.3E-40
+d1gpl_1 2.3E-40
+d1etha1 4.2E-37
+d1lox_2 1.2E-32
+d1ca1_2 4.6E-27

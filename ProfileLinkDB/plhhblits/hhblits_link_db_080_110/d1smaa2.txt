@@ -1,0 +1,17 @@
+d1g94a1 3.4E-27
+d1smd_1 9.9E-27
+d1jae_1 1.1E-26
+d1hx0a1 1.2E-26
+d1bvza2 1.5E-13
+d1cgt_3 5.1E-12
+d1g5aa1 5.6E-12
+d1ciu_3 6.2E-12
+d1pama3 1.8E-11
+d1kcla3 3E-11
+d1qhoa3 5.1E-11
+d1cyg_3 9.2E-11
+d1uok_1 2.3E-10
+d2aaa_1 4.7E-06
+d7taa_1 5.2E-06
+d2taaa1 6.1E-06
+d1bag_1 1.7E-05

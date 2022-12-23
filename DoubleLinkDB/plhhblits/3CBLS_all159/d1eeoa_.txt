@@ -1,0 +1,14 @@
+1 d1fpra_ 3.2E-66
+1 d2shpa1 6.8E-66
+1 d1lara2 6.9E-65
+1 d1rpma_ 1.9E-62
+1 d1lara1 1.1E-61
+1 d1jlna_ 2.8E-61
+1 d1yfoa_ 2.3E-60
+1 d1ypta_ 4.6E-60
+1 d1larb1 2.4E-58
+1 d1g4us2 9.3E-50
+1 d1d5ra2 9.9E-14
+1 d1i9sa_ 1.2E-13
+1 d1fpza_ 1.1E-12
+1 d1vhra_ 4.8E-09

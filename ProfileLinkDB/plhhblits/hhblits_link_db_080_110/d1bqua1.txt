@@ -1,0 +1,11 @@
+d1bp3b1 1E-34
+d1f6fb1 1.2E-34
+d1cd9b1 2.2E-34
+d1axib1 2E-33
+d1eerb1 7.6E-28
+d1gh7a3 5.1E-14
+d1j7vr1 9.2E-07
+g1dan.1 1.7E-06
+d1fyhb1 5.3E-06
+d1iarb1 1E-05
+d1cfb_1 0.00017

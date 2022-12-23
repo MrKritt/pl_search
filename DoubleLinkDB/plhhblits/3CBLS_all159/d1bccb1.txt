@@ -1,0 +1,7 @@
+1 d1be3b1 1E-25
+1 d1hr6a1 4.4E-24
+1 d1be3a1 2.4E-22
+1 d1hr6b1 2.3E-20
+1 d1bcca1 2.8E-20
+1 d1ezva1 5.6E-19
+1 d1ezvb1 4.7E-18

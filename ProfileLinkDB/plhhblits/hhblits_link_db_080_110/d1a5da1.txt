@@ -1,0 +1,15 @@
+d1elpa1 7.5E-33
+d1amm_1 2E-32
+d1a45_1 2.2E-32
+d1a7ha_ 4.8E-32
+d1a5da2 6.1E-32
+d1amm_2 6.2E-32
+d1elpa2 6.5E-32
+d1a45_2 6.7E-32
+d2bb2_2 7.4E-32
+d1ha4a_ 8.3E-32
+d2bb2_1 1.8E-30
+d1bd7a_ 8E-28
+d1npsa_ 1.1E-25
+d1hdfa_ 1.1E-24
+d1prr_2 5.8E-24

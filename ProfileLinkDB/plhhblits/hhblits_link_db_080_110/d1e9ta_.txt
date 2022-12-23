@@ -1,0 +1,3 @@
+d2pspa2 1E-25
+d2pspa1 6.6E-24
+d1hi7a_ 5.4E-23

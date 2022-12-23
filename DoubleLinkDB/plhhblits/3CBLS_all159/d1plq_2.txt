@@ -1,0 +1,6 @@
+1 d1axca2 1.8E-33
+1 d1ge8a2 2.3E-31
+1 d2pola3 1.8E-25
+1 d1axca1 2.4E-07
+1 d1plq_1 4.3E-07
+1 d1ge8a1 3E-05

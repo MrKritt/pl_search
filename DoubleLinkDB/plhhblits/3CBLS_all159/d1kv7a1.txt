@@ -1,0 +1,17 @@
+1 d1hfua1 5.8E-26
+1 d1gs7a1 8.4E-23
+1 d1ndsa1 9.9E-23
+1 d1aoza1 1.4E-22
+1 d1j9qa1 2.9E-21
+1 d1kbva1 5.4E-21
+1 d1nif_1 1.4E-20
+1 d1kcw_5 2.9E-18
+1 d1kcw_1 9E-18
+1 d1kcw_3 4.8E-17
+1 d1kcw_6 3.7E-08
+1 d1bawa_ 2.8E-07
+1 d1qnia1 3.1E-07
+1 d1fwxa1 3.5E-07
+1 d1kcw_2 3.3E-06
+1 d1nin__ 7.6E-06
+1 d1hfua3 0.00046

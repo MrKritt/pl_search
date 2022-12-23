@@ -1,0 +1,11 @@
+d1cgt_1 1.3E-27
+d1ciu_1 1.7E-27
+d1kcla1 1.8E-27
+d1pama1 3.3E-27
+d1qhoa1 6.6E-26
+d1imhc1 1.5E-05
+d1a02n1 1.6E-05
+d1jjua3 0.00024
+d1jmxa3 0.00029
+d1bfs__ 0.00051
+d1a3qa1 0.00093

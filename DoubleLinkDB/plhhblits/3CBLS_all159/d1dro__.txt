@@ -1,0 +1,8 @@
+1 d1btn__ 6.5E-17
+1 d1pls__ 1.9E-07
+1 d1bak__ 6.3E-07
+1 d1faoa_ 6.7E-07
+1 d1qqga1 1.1E-06
+1 d1fgya_ 1.5E-06
+1 d1btka_ 0.00014
+1 d1dyna_ 0.00023

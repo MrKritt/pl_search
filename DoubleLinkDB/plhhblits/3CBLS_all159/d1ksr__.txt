@@ -1,0 +1,5 @@
+1 d1qfha1 7.1E-32
+1 d1qfha2 8.7E-26
+0 d1cwva2 9.4E-11
+0 d1cwva3 1.5E-05
+0 d1cwva1 0.00088
